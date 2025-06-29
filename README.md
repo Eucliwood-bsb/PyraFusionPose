@@ -1,5 +1,5 @@
-# ViT-LSASP
-Improving Human Pose Estimation: A Vision Transformer Approach Leveraging Lightweight Self-Attention and Semantic Projection
+# PyraFusionPose
+PyraFusionPose: Multi-Scale Feature Pyramid Transformer with Dynamic Gated Fusion for Human Pose Estimation
 <div align="center">
-  <img src="https://github.com/Eucliwood-bsb/ViT-LSASP/blob/main/image/multimodels.pdf">
+  <img src="https://github.com/Eucliwood-bsb/PyraFusionPose/blob/main/image/multimodels.pdf">
 </div>
